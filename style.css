@@ -1,0 +1,82 @@
+
+
+h1{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+    padding: 20px 0;
+    height: auto;
+    width: 50%;
+}
+#special{
+    color: #00ffd5;
+    background-color: dimgray;
+}
+.rice{
+    background-color: lightblue;
+ 
+    margin: 50px 70px;
+    border-radius: 10px;
+    border: 1px solid rgb(19, 15, 15);
+    padding: 20px;
+
+}
+.blog{
+    color: black;
+    background-color: orange;
+    margin: 50px 70px;
+    border-radius: 10px;
+    border: 1px solid rgb(26, 22, 22);
+    padding: 20px;
+}
+.programming{
+    color: black;
+    background-color: rgb(131, 45, 19);
+    margin: 50px 70px;
+    border-radius: 10px;
+    border: 1px solid rgb(24, 19, 19);
+    padding: 20px;
+}
+h2{
+    background-color: black;
+    color: #FFFFFF;
+}
+h3{ 
+    background-color: black;
+    color: #FFFFFF;
+}
+
+a{
+    color: rgb(0, 0, 0);
+}
+.menu-area ul{
+    margin: 50px 0;
+}
+.menu-area ul li {
+    background-color: rgb(247, 231, 226);
+    color: cornsilk;
+    text-align: center;
+    width: 30%;
+    margin: 30px;
+    padding: 20px;
+    border-left: 1px solid rgb(26, 22, 22);
+    border-radius: 10px;
+    display: inline;
+    
+}
+.menu-area ul li a{
+    text-decoration: none;
+    
+}
+
+p{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    color: black;
+    background-color: rgb(0, 255, 0);
+    margin: 20px 70px;
+}
